@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SCHEDULE A TRAINING_owl-dt-control-but_0f9102</name>
+   <tag></tag>
+   <elementGuidId>81eac3f2-50bd-49ff-9c9c-e4261ab8f200</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.owl-dt-control-button-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//owl-date-time-container[@id='owl-dt-picker-3']/div[2]/owl-date-time-timer/owl-date-time-timer-box/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>139a8902-b4e7-4fa3-9b02-5f79bd185345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>f0b43944-9f55-497b-b07d-fc07203e7277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>owl-dt-control-button-content</value>
+      <webElementGuid>78b0713a-8ccc-4550-91e9-ee3f674b2eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;owl-dt-picker-3&quot;)/div[@class=&quot;owl-dt-container-inner ng-tns-c79-3 ng-trigger ng-trigger-fadeInPicker&quot;]/owl-date-time-timer[@class=&quot;owl-dt-container-row ng-tns-c79-3 owl-dt-timer ng-star-inserted&quot;]/owl-date-time-timer-box[@class=&quot;owl-dt-timer-box&quot;]/button[@class=&quot;owl-dt-control-button owl-dt-control-arrow-button&quot;]/span[@class=&quot;owl-dt-control-button-content&quot;]</value>
+      <webElementGuid>4c9b95c3-fb6c-4940-9b6b-1fa9664bef49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//owl-date-time-container[@id='owl-dt-picker-3']/div[2]/owl-date-time-timer/owl-date-time-timer-box/button/span</value>
+      <webElementGuid>db0a6fe4-2696-45f0-bb1e-64f2d07a94e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHEDULE A TRAINING'])[1]/following::span[1]</value>
+      <webElementGuid>19d9647c-e2b1-4e52-99f6-70ffb81d6554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCEL'])[1]/following::span[1]</value>
+      <webElementGuid>1b8c35aa-19bd-43f2-a25e-1825bd3aa613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hour'])[1]/preceding::span[1]</value>
+      <webElementGuid>5ad67737-0d43-45a5-9fc6-00e9a81a54eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minute'])[1]/preceding::span[4]</value>
+      <webElementGuid>e30d3704-5820-4f4a-b9fb-a3e856363bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>55deea56-fb68-48da-802d-77dfce0e42c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

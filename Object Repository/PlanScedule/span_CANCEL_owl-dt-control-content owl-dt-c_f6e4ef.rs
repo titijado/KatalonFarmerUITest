@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CANCEL_owl-dt-control-content owl-dt-c_f6e4ef</name>
+   <tag></tag>
+   <elementGuidId>3044e4c1-ae96-4978-8b05-f42f9a3a697d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.owl-dt-control-content.owl-dt-control-button-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//owl-date-time-container[@id='owl-dt-picker-2']/div[2]/owl-date-time-calendar/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e7c1ae89-33ce-4f03-97c5-9f26d2831dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c4e75311-59a7-43db-a12d-89612ad369ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>owl-dt-control-content owl-dt-control-button-content</value>
+      <webElementGuid>3b508cf4-5908-4739-a40f-ab044e0db268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;owl-dt-picker-2&quot;)/div[@class=&quot;owl-dt-container-inner ng-tns-c79-2 ng-trigger ng-trigger-fadeInPicker&quot;]/owl-date-time-calendar[@class=&quot;owl-dt-container-row ng-tns-c79-2 owl-dt-calendar ng-star-inserted&quot;]/div[@class=&quot;owl-dt-calendar-control&quot;]/button[@class=&quot;owl-dt-control owl-dt-control-button owl-dt-control-arrow-button&quot;]/span[@class=&quot;owl-dt-control-content owl-dt-control-button-content&quot;]</value>
+      <webElementGuid>7321ae11-87ee-4e93-bac0-5268193f2d19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//owl-date-time-container[@id='owl-dt-picker-2']/div[2]/owl-date-time-calendar/div/button/span</value>
+      <webElementGuid>09b78ff0-efe0-4751-963a-2601871e5ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCEL'])[1]/following::span[1]</value>
+      <webElementGuid>d65a7969-5ef7-4349-b7cd-eb8b7041bd88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE SELECTED'])[1]/following::span[1]</value>
+      <webElementGuid>9f78af13-8242-4190-82a7-080aac59f9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 2023'])[1]/preceding::span[1]</value>
+      <webElementGuid>3a0a2b53-4281-46d5-be9b-a7d4e1b406d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/preceding::span[4]</value>
+      <webElementGuid>42ebd3ac-a217-4452-af25-9e2cec246b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>04862cfd-0098-4a7a-bc5c-289797fe30b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

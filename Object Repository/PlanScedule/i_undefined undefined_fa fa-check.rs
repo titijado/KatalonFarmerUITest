@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_undefined undefined_fa fa-check</name>
+   <tag></tag>
+   <elementGuidId>7bd50a38-1992-4200-969c-a986fec5c8f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d5dc0c07-971a-438c-b39b-63dfe9bb4d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check</value>
+      <webElementGuid>c45d33f8-cfe5-4818-93a2-cbdd082a5f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;hold-transition skin-blue sidebar-mini&quot;]/app-root[1]/app-admin[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/app-training-scheduling-create[1]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/span[1]/div[@class=&quot;col-md-12 col-lg-6&quot;]/fieldset[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ng-star-inserted&quot;]/table[@class=&quot;row-border hover table table-striped&quot;]/thead[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[3]/div[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-xs-3&quot;]/span[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;btn btn-success btn-xs&quot;]/i[@class=&quot;fa fa-check&quot;]</value>
+      <webElementGuid>46922150-9397-44f1-bded-b7f487744456</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>1f26f531-389c-4ec9-a37d-c419722378f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

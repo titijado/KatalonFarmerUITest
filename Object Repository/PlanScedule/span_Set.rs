@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Set</name>
+   <tag></tag>
+   <elementGuidId>e1fae375-95e1-4db4-8d5f-36a568ef8eae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//owl-date-time-container[@id='owl-dt-picker-1']/div[2]/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cafb12a7-b490-471e-8030-4a20eb9e2829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>eab2538c-a6ed-4e95-b56e-da6ed1c665d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>owl-dt-control-content owl-dt-control-button-content ng-tns-c79-1</value>
+      <webElementGuid>cef700bc-f8b5-474f-b3de-fd906160409b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Set </value>
+      <webElementGuid>14c61e96-a673-4c50-9d0c-a33730c907cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;owl-dt-picker-1&quot;)/div[@class=&quot;owl-dt-container-inner ng-tns-c79-1 ng-trigger ng-trigger-fadeInPicker&quot;]/div[@class=&quot;owl-dt-container-buttons owl-dt-container-row ng-tns-c79-1 ng-star-inserted&quot;]/button[@class=&quot;owl-dt-control owl-dt-control-button owl-dt-container-control-button ng-tns-c79-1&quot;]/span[@class=&quot;owl-dt-control-content owl-dt-control-button-content ng-tns-c79-1&quot;]</value>
+      <webElementGuid>b144f2bb-a29b-4ed3-bf9a-68ee8b5ed6c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//owl-date-time-container[@id='owl-dt-picker-1']/div[2]/div/button[2]/span</value>
+      <webElementGuid>2f92c519-47cf-4681-a9bb-e79a08e79106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>57df2f7f-d934-410e-9678-fbe8a134a0d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minute'])[1]/following::span[3]</value>
+      <webElementGuid>eabb56de-79ac-4e89-af4d-28d597be8f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Set']/parent::*</value>
+      <webElementGuid>ccddb88b-c8a2-4d9a-8ab3-47e5fc679214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button[2]/span</value>
+      <webElementGuid>4739e949-5aa9-45b0-a2ff-83a5eafc6368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Set ' or . = ' Set ')]</value>
+      <webElementGuid>0eadac1f-dfe0-484e-a40b-a1cf9b86d90d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

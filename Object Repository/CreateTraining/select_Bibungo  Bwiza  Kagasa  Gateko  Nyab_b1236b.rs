@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Bibungo  Bwiza  Kagasa  Gateko  Nyab_b1236b</name>
+   <tag></tag>
+   <elementGuidId>22d8c692-0548-4ad7-aa38-e6b6b05f311d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='location-village']/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f30cc2c2-16da-41fd-8e2d-640e5d7e718f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>village_id</value>
+      <webElementGuid>3a9da2d2-41dd-4ab6-88fe-b64ff0f844d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>9d0978b3-fd18-40a6-8f7c-4a3a135d1270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Bibungo  Bwiza  Kagasa  Gateko  Nyabihu  Rutagara I  Ruyenzi  Rutagara Ii </value>
+      <webElementGuid>8ce19b47-1c0f-45a4-9922-e7ff90d8daa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;location-village&quot;)/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>09611b76-505c-4af6-9d44-f28d2b0b9d19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='location-village']/div/select</value>
+      <webElementGuid>18771ab3-08db-4aad-8443-cf09a59f3ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Village'])[1]/following::select[1]</value>
+      <webElementGuid>ad055e2f-091c-4d0b-bd1c-e4b2fa9855ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cell'])[1]/following::select[2]</value>
+      <webElementGuid>3da60e18-0d15-4701-87cb-2d07e3eca7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group leader names'])[1]/preceding::select[1]</value>
+      <webElementGuid>788b75d6-4ab0-4b86-84ea-fdef20290745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group leader phone number'])[1]/preceding::select[1]</value>
+      <webElementGuid>94bf9702-a420-4b54-8e48-4ee6dd6cb7e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/select</value>
+      <webElementGuid>cb43031c-e794-4240-8db3-40e6331874c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = ' Bibungo  Bwiza  Kagasa  Gateko  Nyabihu  Rutagara I  Ruyenzi  Rutagara Ii ' or . = ' Bibungo  Bwiza  Kagasa  Gateko  Nyabihu  Rutagara I  Ruyenzi  Rutagara Ii ')]</value>
+      <webElementGuid>095b6ada-9c72-4e45-9247-e8ee3e61c59a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

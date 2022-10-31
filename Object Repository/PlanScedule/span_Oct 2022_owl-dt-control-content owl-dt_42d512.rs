@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Oct 2022_owl-dt-control-content owl-dt_42d512</name>
+   <tag></tag>
+   <elementGuidId>1b78b15a-141a-423e-8535-37a2db931907</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//owl-date-time-container[@id='owl-dt-picker-0']/div[2]/owl-date-time-calendar/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93dfb5f0-bf7a-4c5b-9faf-794df54ff8cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>4aab95b4-cfc2-4042-ba59-f182755c489e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>owl-dt-control-content owl-dt-control-button-content</value>
+      <webElementGuid>0823cf25-3dbf-4abc-aa25-94ad05efde9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;owl-dt-picker-0&quot;)/div[@class=&quot;owl-dt-container-inner ng-tns-c79-0 ng-trigger ng-trigger-fadeInPicker&quot;]/owl-date-time-calendar[@class=&quot;owl-dt-container-row ng-tns-c79-0 owl-dt-calendar ng-star-inserted&quot;]/div[@class=&quot;owl-dt-calendar-control&quot;]/button[@class=&quot;owl-dt-control owl-dt-control-button owl-dt-control-arrow-button&quot;]/span[@class=&quot;owl-dt-control-content owl-dt-control-button-content&quot;]</value>
+      <webElementGuid>c882179c-7136-4401-945a-75e3b88eb7b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//owl-date-time-container[@id='owl-dt-picker-0']/div[2]/owl-date-time-calendar/div/button[2]/span</value>
+      <webElementGuid>a8a851ba-b5e9-4a92-8789-f0edc57a2466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oct 2022'])[1]/following::span[1]</value>
+      <webElementGuid>06254a8f-d993-4a5b-bbaf-d2987cc12b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCEL'])[1]/following::span[4]</value>
+      <webElementGuid>0765473a-6d5e-4b93-8fc3-e95795995624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/preceding::span[1]</value>
+      <webElementGuid>ffbd1ee6-1faf-486f-9715-828a2bcf450a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon'])[1]/preceding::span[2]</value>
+      <webElementGuid>6b36e49e-d030-49e6-8ad5-b1fb97b524e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>a1da17e0-f1cf-4606-a916-9acaa2bc93c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
